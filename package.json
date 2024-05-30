@@ -1,0 +1,18 @@
+{
+  "name": "nodebasicinformationalsite",
+  "version": "1.0.0",
+  "description": "Basic Informational Site project - The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "watch": "nodemon index"
+  },
+  "author": "Matthew Cho",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
